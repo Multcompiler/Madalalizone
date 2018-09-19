@@ -1,0 +1,19 @@
+.status_text{
+    background-color: #2a6496;
+    padding: 5px;
+    font-size: 15px;
+    width: 12%;
+    border-radius: 5px;
+    color:white;
+}
+
+@media only screen and (max-width: 600px) {
+    .status_text{
+        background-color: #2a6496;
+        padding: 5px;
+        font-size: 15px;
+        width: 50%;
+        border-radius: 5px;
+        color:white;
+    }
+}
